@@ -9,6 +9,18 @@
 // c. Pašalins iš vienkrypčio ciklinio sąrašo visus elementus po paskutinio teigiamo bei
 // parodys juos ekrane.
 
+/*******REQUIREMENTS IN ENGLISH*******/
+// Create a stack implemented as a singly linked list.  
+// Implement functions for data insertion and removal.  
+// Implement the following functions:  
+
+// a. Store all removed elements in a singly circular linked list.  
+
+// b. In the singly circular linked list, double all odd elements and display them on the screen.  
+
+// c. Remove all elements from the singly circular linked list that appear after the last positive number  
+// and display them on the screen.
+
 #include <iostream>
 using namespace std;
 

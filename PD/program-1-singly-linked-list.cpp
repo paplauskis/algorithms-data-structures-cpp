@@ -4,6 +4,14 @@
 //eilės vidinį tarpą. Taip pat, jeigu paskutinis žodis prasideda raide „a“ ir žodžių
 //skaičius yra nelyginis, tai perstatyti šį žodį sąrašo pradžioje, padarant jį pirmu.
 
+/*******REQUIREMENTS IN ENGLISH*******/
+// Given an integer n. Characters s1, s2, … , sn are written into a list.  
+// A group of characters separated by spaces is called a word.  
+// Modify the list so that the first and last spaces (if they exist) are removed,  
+// and also remove any consecutive inner spaces.  
+// Additionally, if the last word starts with the letter "a" and the number of words is odd,  
+// move this word to the beginning of the list, making it the first word.
+
 #include <iostream>
 using namespace std;
 

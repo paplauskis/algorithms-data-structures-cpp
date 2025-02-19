@@ -9,6 +9,16 @@
 
 //c. Panaikina visus steko elementus, juos atspausdinant ekrane.
 
+/*******REQUIREMENTS IN ENGLISH*******/
+// 4. Create a circular singly linked list, implementing data insertion, insertion before and after a given 
+// element, removal of a desired element, and finding the maximum element. Implement the following functions:
+
+// a. Move all numbers from the smallest to the stack, which is implemented as a singly linked list.
+
+// b. Insert numbers from the circular list from the first odd number to the second odd number into the stack.
+
+// c. Remove all elements from the stack and print them on the screen.
+
 #include <iostream>
 using namespace std;
 

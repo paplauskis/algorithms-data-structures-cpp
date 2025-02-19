@@ -9,6 +9,19 @@
 // Visuose uždaviniuose reikia naudoti vienkrypčius sąrašus bei funkcijas, kuriose turi būti
 // realizuoti prašomi veiksmai. Taip turi būti realizuotos įvedimo bei spausdinimo funkcijos.
 
+/*******REQUIREMENTS IN ENGLISH*******/
+// 1. Enter an integer N. Enter N integers a1, a2, ... aN.  
+// Calculate and output the number and sum of sequence elements  
+// that are greater than the smallest number.  
+
+// 2. Insert a number x after the largest element in a singly linked list  
+// and the same number before the smallest element.  
+
+// 3. Remove the k-th element from the singly linked list.  
+
+// In all tasks, singly linked lists and functions must be used  
+// to implement the required operations.  
+// Input and output functions must also be implemented.  
 
 #include <iostream>
 using namespace std;

@@ -1,5 +1,8 @@
 //Įterpti skaičių x po visų neigiamų elementų.
 
+/*******REQUIREMENTS IN ENGLISH*******/
+// Insert the number x after all negative elements.  
+
 #include <iostream>
 using namespace std;
 

@@ -1,8 +1,23 @@
 // 2. Sukurti steką. Sukurti funkcijas, kurios vykdo duomenų įvedimą, bei pašalinimą. Realizuoti funkcijas, kurios
+
 // a. Visus pašalintus elementus įrašys į dvikryptį ciklinį sąrašą;
+
 // b. Dvikrypčiame cikliniame sąraše visus neigiamus elementus pakeis atitinkamais
 // teigiamais bei parodys juos ekrane;
+
 // c. Pašalins iš dvikrypčio ciklinio sąrašo elementus iki pirmojo 0 bei parodys juos ekrane.
+
+/*******REQUIREMENTS IN ENGLISH*******/
+// 2. Create a stack. Implement functions for data insertion and removal.  
+// Implement the following functions:  
+
+// a. Store all removed elements in a doubly circular linked list.  
+
+// b. In the doubly circular linked list, replace all negative elements with their  
+// corresponding positive values and display them on the screen.  
+
+// c. Remove all elements from the doubly circular linked list up to the first 0  
+// and display them on the screen.  
 
 #include <iostream>
 using namespace std;

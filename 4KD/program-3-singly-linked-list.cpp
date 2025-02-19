@@ -1,5 +1,8 @@
 //Pašalinti iš vienkrypčio sąrašo pirmąjį neigiamą elementą
 
+/*******REQUIREMENTS IN ENGLISH*******/
+// Remove the first negative element from the singly linked list.  
+
 #include <iostream>
 using namespace std;
 

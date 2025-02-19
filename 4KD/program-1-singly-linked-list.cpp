@@ -1,6 +1,11 @@
 //Įvesti sveiką skaičių N. Įvesti N sveikų skaičių a1, a2, ... aN ir skaičių b. Sekoje a1, a2, ...
 //aN visus narius, didesnius už skaičių b, pakeisti skaičiumi b. Išvesti gautą seką.
 
+/*******REQUIREMENTS IN ENGLISH*******/
+// Enter an integer N. Enter N integers a1, a2, ... aN and a number b.  
+// In the sequence a1, a2, ... aN, replace all elements greater than b with b.  
+// Output the resulting sequence.  
+
 #include <iostream>
 using namespace std;
 

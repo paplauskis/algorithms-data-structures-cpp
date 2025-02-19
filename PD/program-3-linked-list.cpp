@@ -1,4 +1,9 @@
-//3. Parašyti programą, kuri įterpia į sukurto sąrašo L pabaigą visus sąrašo elementus, kurie yra prieš elementą E, jei toks elementas egzistuoja
+//3. Parašyti programą, kuri įterpia į sukurto sąrašo L pabaigą visus sąrašo elementus, kurie yra prieš elementą E, 
+//jei toks elementas egzistuoja.
+
+/*******REQUIREMENTS IN ENGLISH*******/
+// 3. Write a program that inserts into the end of the created list L all the elements of the list 
+// that are before element E, if such an element exists.
 
 #include <iostream>
 using namespace std;

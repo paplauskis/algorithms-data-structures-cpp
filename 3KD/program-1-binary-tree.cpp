@@ -5,10 +5,26 @@
 
 //b. Pašalinti iš medžio visas  pavardes, kurių ilgis didesnis už 5, bet mažesnis už 10, 
 //įrašant jas į deko, realizuoto kaip sąrašas, pradžią.
+
 //c. Pašalinti iš medžio visas  pavardes, kurių ilgis didesnis už 10, įrašant jas į deko, 
 //realizuoto kaip sąrašas, pabaigą.
 
 //d. Spausdinti deką ir eilę.
+
+/*******REQUIREMENTS IN ENGLISH*******/
+// Create a binary tree where the elements are last names (strings).  
+// Implement insertion, search, printing, and deletion operations,  
+// and perform the following tasks:  
+
+// a. Store all last names longer than 5 characters in a queue implemented as a list.  
+
+// b. Remove from the tree all last names longer than 5 but shorter than 10 characters,  
+// inserting them at the front of a deque implemented as a list.  
+
+// c. Remove from the tree all last names longer than 10 characters,  
+// inserting them at the end of a deque implemented as a list.  
+
+// d. Print the deque and the queue. 
 
 #include <iostream>
 #include <string>

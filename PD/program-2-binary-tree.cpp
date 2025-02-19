@@ -2,6 +2,10 @@
 // spausdinimo bei paieškos funkcijas. Perkelti to sąrašo visus elementus 
 // į dvikryptį ciklinį sąrašą. Atspausdinti visus sąrašo  elementus.
 
+/*******REQUIREMENTS IN ENGLISH*******/
+// 2. Create a binary tree, implementing functions for element insertion, removal,  
+// printing, and searching. Move all elements from the tree to a doubly circular linked list.  
+// Print all elements of the list.
 
 #include <iostream>
 using namespace std;
