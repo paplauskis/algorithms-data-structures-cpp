@@ -8,3 +8,6 @@
 - **Binary Search Tree**
 
 ### Requirements are present in .cpp files
+
+To run the algorithms, paste the code in some online compiler
+f.e.: https://www.programiz.com/cpp-programming/online-compiler/
